@@ -1,0 +1,53 @@
+h1{
+    color: purple;
+    text-align: center;
+    
+}
+
+
+
+.p1{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 40px0;
+
+}
+
+.s1{
+    background-color: yellow;
+    color: black;
+}
+
+.s2{
+    background-color:yellow ;
+    color: black;
+}
+
+.s3{
+    background-color:yellow ;
+    color: black;
+}
+
+.p2{
+    text-align: center;
+    font-size: 50px;
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+}
+
+.s4{
+    background-color:yellow ;
+    color: black;
+    border-radius: 20px;
+}
+
+
+img{
+    width: 1000px;
+    height: 700px;
+    border: 10px solid black;
+    border-radius: 30px;
+}
+
